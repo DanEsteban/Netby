@@ -107,3 +107,4 @@ C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\TransactionService\obj\Debu
 C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\TransactionService\obj\Debug\net8.0\TransactionService.pdb
 C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\TransactionService\obj\Debug\net8.0\TransactionService.genruntimeconfig.cache
 C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\TransactionService\obj\Debug\net8.0\ref\TransactionService.dll
+C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\TransactionService\obj\Debug\net8.0\TransactionService.sourcelink.json

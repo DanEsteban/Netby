@@ -107,3 +107,4 @@ C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\ProductsService\obj\Debug\n
 C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\ProductsService\obj\Debug\net8.0\ProductsService.pdb
 C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\ProductsService\obj\Debug\net8.0\ProductsService.genruntimeconfig.cache
 C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\ProductsService\obj\Debug\net8.0\ref\ProductsService.dll
+C:\Users\Kaise\Desktop\Proyecto full stack\backnetby\ProductsService\obj\Debug\net8.0\ProductsService.sourcelink.json
